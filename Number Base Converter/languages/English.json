@@ -1,0 +1,12 @@
+{
+    "window_title": "Standard Number Base Converter",
+    "invalid_input": "Invalid input.",
+    "invalid_base": "Invalid base.",
+    "bases": ["Binary", "Octal", "Decimal", "Hexadecimal"],
+    "output_labels": {
+        "binary": "Binary:0b",
+        "octal": "Octal:0",
+        "decimal": "Decimal:",
+        "hexadecimal": "Hexadecimal:0x"
+    }
+}

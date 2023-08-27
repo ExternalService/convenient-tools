@@ -1,5 +1,5 @@
 {
-    "window_title": "基数转换器",
+    "window_title": "进制转换器",
     "invalid_input": "无效的输入。",
     "invalid_base": "无效的基数。",
     "bases": ["二进制", "八进制", "十进制", "十六进制"],

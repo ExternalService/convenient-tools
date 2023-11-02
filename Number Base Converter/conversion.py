@@ -3,7 +3,7 @@ from tkinter import ttk
 import json
 
 
-current_language = 'English'
+current_language = '中文'
 # 进制下拉框索引基数
 current_base_index = 2
 
